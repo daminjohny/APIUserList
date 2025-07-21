@@ -1,4 +1,4 @@
-{
+[
 {
 userid:1,
 userfirstname:'Damin',
@@ -35,4 +35,4 @@ userpassword:'rajk@123',
 userrole:2,
 userisvalid:'Yes'
 }
-}
+]
